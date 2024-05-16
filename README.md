@@ -1,0 +1,2 @@
+<h1 align="center">Easy Portfólio📝</h1>
+<p>Um portfólio profissional para destacar suas habilidades, experiências e objetivos na área de Tecnologia da Informação. Este projeto visa apresentar sua trajetória educacional, experiência em desenvolvimento de projetos. O objetivo principal é criar uma imagem profissional sólida e atrativa que demonstre sua dedicação à tecnologia e sua capacidade de contribuir de forma significativa para projetos futuros.</p>
